@@ -1,5 +1,5 @@
 ---
-schema: default
+schema: kg
 title: Drinking Water knowledge graph
 organization: Simone Bocca
 notes: Knowledge graph with data about a drinking water point in via graffiano 30
@@ -12,6 +12,10 @@ category:
   - Maps
 type:
   - Graph 
+language: <a href="https://datascientiafoundation.github.io/LiveDataSimoneBocca/datasets/sb-lang/">https://datascientiafoundation.github.io/LiveDataSimoneBocca/datasets/sb-lang/</a>
+teleology: <a href="https://datascientiafoundation.github.io/LiveDataSimoneBocca/datasets/sb-teleology/">https://datascientiafoundation.github.io/LiveDataSimoneBocca/datasets/sb-teleology/</a>
+teleontology: <a href="https://datascientiafoundation.github.io/LiveDataSimoneBocca/datasets/sb-teleontology/">https://datascientiafoundation.github.io/LiveDataSimoneBocca/datasets/sb-teleontology/</a>
+dataset: <a href="https://datascientiafoundation.github.io/LiveDataSimoneBocca/datasets/drinking-water-dataset/">https://datascientiafoundation.github.io/LiveDataSimoneBocca/datasets/drinking-water-dataset/</a>
 maintainer: Simone Bocca
 maintainer_email: simone.bocca@unitn.it
 tags: water

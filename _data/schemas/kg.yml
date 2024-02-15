@@ -27,6 +27,15 @@ dataset_fields:
   - field_name: language
     label: Rference domain language
     datajson: language
+  - field_name: teleology
+    label: Rference domain teleology
+    datajson: teleology
+  - field_name: teleontology
+    label: Rference domain teleontology
+    datajson: teleontology
+  - field_name: dataset
+    label: Reference row data
+    datajson: dataset
   - field_name: maintainer
     label: Maintainer
     datajson: contactPoint.fn
