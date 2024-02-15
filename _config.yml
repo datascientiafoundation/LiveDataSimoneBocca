@@ -1,8 +1,8 @@
-title: JKAN
-greeting: DataScientia Catalog Template 
-description: This is a template, provided by DataScientia Foundation, for the creation of a Data Catalog to be part of the DataScientia community.
-baseurl: /jkan
-logo: /img/LTemplate-noBG.png
+title: LiveData Simone Bocca
+greeting: LiveData Simone Bocca
+description:  This is the personal data catalog of Simone Bocca.
+baseurl: /LiveDataSimoneBocca
+logo: /img/LD-SB.png
 
 # Site theme
 jkan_theme: Default

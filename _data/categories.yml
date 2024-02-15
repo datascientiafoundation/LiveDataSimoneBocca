@@ -13,3 +13,7 @@
   logo: /img/categories/transportation.svg
   logo_credit: Dmitry Baranovskiy from the Noun Project
   featured: true
+- name: Map
+  logo: /img/categories/map.png
+  logo_credit: Simone Bocca
+  featured: true
