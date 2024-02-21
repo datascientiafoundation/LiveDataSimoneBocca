@@ -1,10 +1,10 @@
 ---
 schema: default
-title: Park-House dataset
+title: Park House dataset
 organization: Simone Bocca
 notes: Dataset with data about park and Simone Bocca's house in via graffiano 30
 resources:
-  - name: Park-House dataset
+  - name: Park House dataset
     url: 'https://github.com/simone-bocca/MyKG-LD/blob/main/Data/datasets/park-house.json'
     format: json
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
